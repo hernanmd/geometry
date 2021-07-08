@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Geometry",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"center",
+		"radius"
+	],
+	"name" : "GeomCircle",
+	"type" : "normal"
+}

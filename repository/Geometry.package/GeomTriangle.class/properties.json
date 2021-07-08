@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Geometry",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"v1",
+		"v2",
+		"v3",
+		"edgesByOpositeVertex"
+	],
+	"name" : "GeomTriangle",
+	"type" : "normal"
+}

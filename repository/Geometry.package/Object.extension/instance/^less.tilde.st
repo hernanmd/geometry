@@ -1,3 +1,3 @@
 *Geometry
 <~ other
-	^ (self greaterOrDifferentThan: other) not
+	^ (self geomGreaterOrDifferentThan: other) not

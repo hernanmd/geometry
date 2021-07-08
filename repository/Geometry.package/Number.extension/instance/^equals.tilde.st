@@ -1,3 +1,3 @@
 *Geometry
 =~ aNumber 
-	^((self - aNumber) abs) < Number epsilon.
+	^((self - aNumber) abs) < Number geomEpsilon.

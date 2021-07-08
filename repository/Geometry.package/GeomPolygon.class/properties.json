@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Geometry",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"vertices",
+		"edges"
+	],
+	"name" : "GeomPolygon",
+	"type" : "normal"
+}

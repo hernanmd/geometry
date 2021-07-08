@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Rectangle",
+	"category" : "Geometry",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "GeomRectangle",
+	"type" : "normal"
+}
