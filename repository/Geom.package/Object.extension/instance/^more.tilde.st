@@ -1,0 +1,3 @@
+*Geom
+>~ other
+	^ other <~ self

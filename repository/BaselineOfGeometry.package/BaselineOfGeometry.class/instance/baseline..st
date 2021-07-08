@@ -2,4 +2,4 @@ baseline
 baseline: spec
 	<baseline>
 	
-	spec for: #common do: [ spec package: 'Geometry' ]
+	spec for: #common do: [ spec package: 'Geom' ]
